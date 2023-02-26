@@ -1,0 +1,13 @@
+.camera-container{
+
+    .video-canvas {
+        border-radius: 50%;
+        border: 3px solid #f9ca24;
+        // box-shadow: 0 0 20px 10px lightblue;
+    }
+    
+    .face-canvas {
+        position: absolute;
+        border-radius: 50%;
+    }
+}

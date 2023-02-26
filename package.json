@@ -8,11 +8,17 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.12",
-    "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
+    "bootstrap": "^5.2.3",
+    "facefilter": "^3.2.4",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-icons": "^4.7.1",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.58.3",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +45,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.5",
+    "@types/react": "^18.0.28",
+    "@types/shortid": "^0.0.29"
   }
 }

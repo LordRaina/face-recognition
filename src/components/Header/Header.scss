@@ -1,0 +1,16 @@
+header {
+    .navbar {
+        margin-bottom: 30px;
+        background-color: #130f40;
+        .navbar-brand {
+            color: #f9ca24;
+        }
+    }
+
+    .header-right {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: auto 0;
+    }
+}

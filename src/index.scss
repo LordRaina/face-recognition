@@ -1,0 +1,21 @@
+/* import the Bootstrap */
+@import "bootstrap";
+
+/* ------- customize primary button color -------- */   
+$mynewcolor:#f9ca24;
+
+.btn-primary {
+    @include button-variant($mynewcolor, darken($mynewcolor, 7.5%), #30336b , darken($mynewcolor, 10%), lighten($mynewcolor, 10%), darken($mynewcolor,30%));
+}
+
+.btn-outline-primary {
+    @include button-outline-variant($mynewcolor, #222222, lighten($mynewcolor,5%), $mynewcolor);
+}
+
+
+body {
+  margin: 0;
+  font-family: "Roboto";
+  background-color: #30336b;
+  color: #f9ca24;
+}
