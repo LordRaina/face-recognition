@@ -1,5 +1,3 @@
-icon => https://www.iconfinder.com/search?q=look&family=iconoir
-
 # Face recognition
 
 ## Description
@@ -20,3 +18,6 @@ This project was developed with `Node.js v19.3.0`
 ## Resource
 - Icons: https://www.iconfinder.com/search?q=look&family=iconoir
 - Animations: https://animista.net/
+
+## Time spent
+Approximately one week (evenings after work and afternoon-evening in the weekend)
